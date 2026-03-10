@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "关于大模型Loss Landscape的二次思考：博弈智能与通用智能的动力学深层原理"
-date: 2026-03-10 23:00:00
-description: "对Unveiling the Basin-Like Loss Landscape in Large Language Models的再思考"
+title: 关于大模型Loss Landscape的二次思考：博弈智能与通用智能的动力学深层原理
+date: 2026-03-10 0:00:00
+description: 对Unveiling the Basin-Like Loss Landscape in Large Language Models的再思考
 tags: [Explainable AI]
 categories: [Deep-learning]
 featured: false
