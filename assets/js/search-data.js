@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-smi-一种全新的遗忘审计策略-简单高效且有统计价值",
         
-          title: "",
+          title: "SMI 一种全新的遗忘审计策略，简单高效且有统计价值",
         
-        description: "",
+        description: "一个简单高效的审计策略SMI",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-05-08-SMIA/";
+            window.location.href = "/blog/2026/SMIA/";
           
         },
       },{id: "post-关于大模型loss-landscape的二次思考-博弈智能与通用智能的动力学深层原理",
