@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-关于大模型loss-landscape的二次思考-博弈智能与通用智能的动力学深层原理",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-05-08-SMIA/";
+          
+        },
+      },{id: "post-关于大模型loss-landscape的二次思考-博弈智能与通用智能的动力学深层原理",
         
           title: "关于大模型Loss Landscape的二次思考：博弈智能与通用智能的动力学深层原理",
         
