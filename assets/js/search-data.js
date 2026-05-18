@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-smi-一种全新的遗忘审计策略-简单高效且有统计价值",
+            },{id: "post-深度学习里的流形优化-i-尺度不变性的历史",
+        
+          title: "深度学习里的流形优化 I——尺度不变性的历史",
+        
+        description: "对历史的回顾与开始",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Manifold1/";
+          
+        },
+      },{id: "post-smi-一种全新的遗忘审计策略-简单高效且有统计价值",
         
           title: "SMI 一种全新的遗忘审计策略，简单高效且有统计价值",
         
