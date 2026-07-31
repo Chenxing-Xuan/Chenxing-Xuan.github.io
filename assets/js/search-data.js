@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-深度学习里的流形优化-i-尺度不变性的历史",
+            },{id: "post-深度学习里的流形优化-ii-hyperball-may-not-be-a-free-lunch",
+        
+          title: "深度学习里的流形优化 II——Hyperball May Not Be a Free Lunch",
+        
+        description: "对权重衰减的深入思考",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Hyperball/";
+          
+        },
+      },{id: "post-深度学习里的流形优化-i-尺度不变性的历史",
         
           title: "深度学习里的流形优化 I——尺度不变性的历史",
         
